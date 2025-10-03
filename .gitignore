@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.* 
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# Model / cache files
+*.bin
+*.pt
+*.ckpt
+*.h5
+
+# Transformers / HuggingFace cache (optional, large)
+~/.cache/huggingface/
+~/.cache/torch/
