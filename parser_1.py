@@ -1,5 +1,5 @@
 import re
-from transformers import pipeline
+from transformers import pipeline # type: ignore
 
 # load a small open-source model (Qwen, Mistral, etc.)
 # you can swap with "meta-llama/Llama-3-8b-instruct" if you have GPU
