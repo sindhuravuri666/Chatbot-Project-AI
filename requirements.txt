@@ -1,6 +1,6 @@
-fastapi==0.115.0
-uvicorn==0.30.1
-transformers==4.43.3
-torch==2.2.2
-ortools==9.10.4067
-pulp==2.8.0
+fastapi
+uvicorn
+transformers
+torch
+ortools
+pulp
