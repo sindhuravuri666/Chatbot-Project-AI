@@ -2,5 +2,6 @@ flask
 transformers
 torch
 ortools
-
+uvicorn
 pulp
+qwen
